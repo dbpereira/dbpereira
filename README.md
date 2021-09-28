@@ -1,4 +1,4 @@
-### Olá, sou Daniel Barbosa Pereira, 39 anos, Técnico em Eletrônica.
+## Olá, sou Daniel Barbosa Pereira, 39 anos, Técnico em Eletrônica.
 
 <div align="center">
   <a href="https://github.com/dbpereira">
@@ -7,9 +7,9 @@
  
   ####
     
-  <img align="rigth" alt="Daniel-hacker" height="200" style="border-radius:50px;" src="https://c.tenor.com/tm3KA5yrnmMAAAAM/hacker-man-hacker.gif">
+  <img align="rigth" alt="Daniel-hacker" height="150" style="border-radius:50px;" src="https://c.tenor.com/tm3KA5yrnmMAAAAM/hacker-man-hacker.gif">
     
-  ##
+  #
   
   <a href="https://www.instagram.com/dbpereira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/daniel.homer.75/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
