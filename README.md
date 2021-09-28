@@ -7,7 +7,7 @@
  
   ####
     
-  <img align="rigth" alt="Daniel-hacker" height="100" style="border-radius:50px;" src="https://c.tenor.com/tm3KA5yrnmMAAAAM/hacker-man-hacker.gif">
+  <img align="rigth" alt="Daniel-hacker" height="200" style="border-radius:50px;" src="https://c.tenor.com/tm3KA5yrnmMAAAAM/hacker-man-hacker.gif">
     
   ##
   
