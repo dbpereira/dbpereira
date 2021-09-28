@@ -1,13 +1,16 @@
 ### Olá, sou Daniel Barbosa Pereira, 39 anos, Técnico em Eletrônica.
+
 <div align="center">
   <a href="https://github.com/dbpereira">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=dbpereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbpereira&layout=compact&langs_count=7&theme=dark"/>    
-  <img align="rigth" alt="Daniel-hacker" height="180" style="border-radius:50px;" src="https://c.tenor.com/tm3KA5yrnmMAAAAM/hacker-man-hacker.gif">
+ 
+  ####
     
-  ###
+  <img align="rigth" alt="Daniel-hacker" height="100" style="border-radius:50px;" src="https://c.tenor.com/tm3KA5yrnmMAAAAM/hacker-man-hacker.gif">
+    
+  ##
   
-  <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/dbpereira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/daniel.homer.75/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:danieldbpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
