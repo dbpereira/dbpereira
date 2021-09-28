@@ -6,7 +6,7 @@
  
   ####
     
-  <img align="rigth" alt="Daniel-hacker" height="150" style="border-radius:50px;" src="https://c.tenor.com/tm3KA5yrnmMAAAAM/hacker-man-hacker.gif">
+  <img align="rigth" alt="Daniel-hacker" height="150" style="border-radius:50px;" src="https://24.media.tumblr.com/4c5070a4f871a1d2b1e24b70e8acc496/tumblr_mqd5ibdXgi1sc6f01o1_500.gif">
     
   #
   
