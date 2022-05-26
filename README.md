@@ -3,10 +3,8 @@
   <a href="https://github.com/dbpereira">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=dbpereira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbpereira&layout=compact&langs_count=7&theme=merko"/>    
- 
-  ####
     
-  <img align="rigth" alt="Daniel-hacker" height="150" style="border-radius:50px;" src="https://24.media.tumblr.com/4c5070a4f871a1d2b1e24b70e8acc496/tumblr_mqd5ibdXgi1sc6f01o1_500.gif">
+  # <img align="rigth" alt="Daniel-hacker" height="150" style="border-radius:50px;" src="https://24.media.tumblr.com/4c5070a4f871a1d2b1e24b70e8acc496/tumblr_mqd5ibdXgi1sc6f01o1_500.gif">
     
   #
   
