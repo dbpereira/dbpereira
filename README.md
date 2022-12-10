@@ -1,4 +1,4 @@
-## Graduando em Análise e Desenvolvimento de Sistemas, em processo de transição de carreira para a área de TI. Em busca de uma oportunidade na área de desenvolvimento de software, suporte técnico, estágio ou CLT. Participei de bootcamp sobre Linux pela Digital Innovation One, e atualmente estou cursando a trilha de aprendizagem HTML5, CSS3 e JAVASCRIPT do professor André Fontenelle na plataforma Udemy.
+## Graduando em Análise e Desenvolvimento de Sistemas, em processo de transição de carreira para a área de TI. Em busca de uma oportunidade na área de desenvolvimento de software, suporte técnico, estágio ou CLT. Participei de bootcamp sobre Linux pela Digital Innovation One, e atualmente estou cursando a trilha de aprendizagem HTML5, CSS3 e JAVASCRIPT.
 <div align="center">
   <a href="https://github.com/dbpereira">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=dbpereira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
