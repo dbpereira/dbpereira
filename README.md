@@ -12,7 +12,10 @@
  	<a href="https://www.facebook.com/daniel.homer.75/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:danieldbpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/daniel-barbosa-pereira-b20794159" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://open.spotify.com/user/db.pereira?si=YnX5aC7hR6Stqf17pyT3hw&utm_source=whatsapp&dl_branch=1"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+  <a href="https://open.spotify.com/user/db.pereira?si=YnX5aC7hR6Stqf17pyT3hw&utm_source=whatsapp&dl_branch=1"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> </br>
+  <a href="https://linuxmint.com.br/"><img src="https://linuxmint.com.br/wp-content/uploads/2022/10/linuxmint.png" target="_blank" height="50"></a>
+  <a href="https://linuxmint.com.br/"><img src="https://bestanimations.com/media/penguins/2035943693linux-penguin-animation.gif" target="_blank" height="100"></a> 
+  
  
  
 </div>
