@@ -4,7 +4,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=dbpereira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbpereira&layout=compact&langs_count=7&theme=merko"/>    
     
-  ## <img align="rigth" alt="Daniel-hacker" height="150" style="border-radius:50px;" src="https://blog.appi9.com/wp-content/uploads/2020/06/1_L_QoAG863l8QvqxpNyBiqw.gif">
+  ## <img align="rigth" alt="Daniel-hacker" height="150" style="border-radius:10px;" src="https://blog.appi9.com/wp-content/uploads/2020/06/1_L_QoAG863l8QvqxpNyBiqw.gif">
     
   
   
