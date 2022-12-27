@@ -1,4 +1,5 @@
-## Graduando em Análise e Desenvolvimento de Sistemas, em processo de transição de carreira para a área de TI. Em busca de uma oportunidade na área de desenvolvimento de software, suporte técnico, estágio ou CLT. Participei de bootcamp sobre Linux pela Digital Innovation One, e atualmente estou cursando a trilha de aprendizagem HTML5, CSS3 e JAVASCRIPT.
+## Graduando em Análise e Desenvolvimento de Sistemas, em processo de transição de carreira para a área de TI. Em busca de uma oportunidade na área de desenvolvimento de software, suporte técnico, estágio ou CLT. Participei de bootcamp sobre Linux pela Digital Innovation One, e atualmente estou cursando a trilha de aprendizagem HTML5, CSS3 e JAVASCRIPT.<br>
+
 <div align="center">
   <a href="https://github.com/dbpereira">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=dbpereira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -16,6 +17,16 @@
   <a href="https://linuxmint.com.br/"><img src="https://linuxmint.com.br/wp-content/uploads/2022/10/linuxmint.png" target="_blank" height="50"></a>
   <a href="https://linuxmint.com.br/"><img src="https://bestanimations.com/media/penguins/2035943693linux-penguin-animation.gif" target="_blank" height="100"></a> 
   
- 
+  <h3 align="center">Technologies I work</h3>
+  <div align="center">
+    <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
+    <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
+    <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg">
+    <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg">
+    <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
+    <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/msdos/msdos-original.svg">
  
 </div>
