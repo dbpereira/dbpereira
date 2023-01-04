@@ -1,4 +1,4 @@
-## Graduando em Análise e Desenvolvimento de Sistemas, em processo de transição de carreira para a área de TI. Em busca de uma oportunidade na área de desenvolvimento de software, suporte técnico, estágio ou CLT. Participei de bootcamp sobre Linux pela Digital Innovation One, e atualmente estou cursando a trilha de aprendizagem HTML5, CSS3 e JAVASCRIPT.<br>
+## Graduando em Análise e Desenvolvimento de Sistemas, em processo de transição de carreira para a área de TI. Em busca de uma oportunidade na área de desenvolvimento de software, suporte técnico, estágio ou CLT. Participei de bootcamp sobre Linux pela Digital Innovation One, e atualmente estou cursando a trilha de aprendizagem HTML5, CSS3 e Javascript.<br>
 
 <div align="center">
   <a href="https://github.com/dbpereira">
